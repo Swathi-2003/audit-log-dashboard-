@@ -170,21 +170,3 @@ Health check. Returns `{ "status": "ok" }`.
 4. **Important:** Go to Settings → Deployment Protection → turn OFF all protection so the app is publicly accessible without login
 5. Deploy
 
-## Screenshots
-
-### Dashboard Overview
-![Dashboard overview](screenshots/dashboard-overview.png)
-
-### Filtering & Search
-![Filtering and search](screenshots/filter.png)
-![Filter by severity, status, region](screenshots/filter_severity_status_region.png)
-![Filter by actor search](screenshots/filter-actor.png)
-
-### Sorting
-![Sorting by column](screenshots/sorting.png)
-
-### Pagination
-![Pagination](screenshots/pagination.png)
-
-### Bulk Upload (Seed Script)
-![Seed script output](screenshots/seed.png)
