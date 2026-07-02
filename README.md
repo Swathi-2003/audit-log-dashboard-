@@ -4,8 +4,8 @@ A full-stack dashboard for security engineers to upload, view, filter, search, s
 
 ## Live Demo
 
-- **Frontend:** https://YOUR_VERCEL_URL.vercel.app
-- **Backend API:** https://YOUR_RENDER_URL.onrender.com/api/health
+- **Frontend:** https://audit-log-dashboard-6sdp.vercel.app
+- **Backend API:** https://audit-log-server.onrender.com/api/health
 
 > Note: The backend is on Render's free tier and may take 30–60 seconds to wake up after inactivity. Please wait and refresh if the table is empty on first load.
 
